@@ -1,4 +1,4 @@
-/* This is the problem of hackerrank under the name Ice-cream parlour.*/
+/* This is the problem of hackerrank under the name Ice Cream Parlor.*/
 
 
 #include <bits/stdc++.h>
